@@ -5,10 +5,10 @@ Fecha:
 Nombre de la rama:
 
 1. ¿El formulario tiene un título claro?
-Respuesta:
+Respuesta: Sí. El título permite entender que el formulario sirve para recoger propuestas de la comunidad.
 
 2. ¿El formulario explica para qué se usará la información?
-Respuesta:
+Respuesta: escribimos nuestra respuesta
 
 3. ¿Cada campo tiene un label o etiqueta visible?
 Respuesta:
